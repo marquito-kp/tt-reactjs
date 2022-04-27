@@ -1,0 +1,8 @@
+.button-red {
+    width: 70px;
+    padding: 15px;
+    background-color: #ff0000;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
